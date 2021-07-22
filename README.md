@@ -22,7 +22,11 @@ Article referenced: https://towardsdatascience.com/web-app-development-for-data-
   - [ ] result emoji
   - [ ] correct / incorrect button (user feedback)
   - [ ] message
+- [ ] backend
+  - [x] text input
+  - [ ] feedback
 
 ### Things to think about
 
 - [ ] AWS deployment
+- [ ] Connecting with React
