@@ -17,8 +17,8 @@ Article referenced: https://towardsdatascience.com/web-app-development-for-data-
 - [ ] functionality for incremental learning
   - [ ] user feedback teach the model incrementally
 - [ ] UI
-  - [ ] user input field
-  - [ ] predict button
+  - [x] user input field
+  - [x] predict button
   - [ ] result emoji
   - [ ] correct / incorrect button (user feedback)
   - [ ] message
